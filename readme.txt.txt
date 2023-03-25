@@ -1,1 +1,3 @@
-learning git , i will my some of c programs on this repo
+learning git , i will add my some of c programs on this repo
+
+author : mukund 
